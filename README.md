@@ -49,3 +49,7 @@ Chart Type: Funnel Map.
 7. All Metrics by Outlet Type:-
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 Chart Type: Matrix Card.
+
+
+![image](https://github.com/user-attachments/assets/f92729bc-e42a-4b41-8651-7dcf3f604e27)
+
